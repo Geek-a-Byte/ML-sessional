@@ -1,0 +1,7 @@
+- load data
+- read data
+- data cleaning/feature engineering/feature selection/feature extraction
+- split dataset
+- mode
+- predict
+- accuracy/error
