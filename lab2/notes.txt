@@ -6,3 +6,10 @@
 - mode (.fit())
 - predict (.predict())
 - accuracy/error 
+
+Correlation
+- fit er age, load er pore kaj ta korte hobe
+- independent var er relation
+
+Outlier
+- unrealistic value, boxplot kore outlier value gula dekhi
