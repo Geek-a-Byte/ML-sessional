@@ -1,7 +1,7 @@
-- load data
-- read data
-- data cleaning/feature engineering/feature selection/feature extraction
+- load data (kaggle download, drive ->up, connect colab)
+- read data (zip -> unzip csv)
+- data cleaning/feature engineering/feature selection/feature extraction (data preprocessing)
 - split dataset
-- mode
-- predict
-- accuracy/error
+- mode (.fit())
+- predict (.predict())
+- accuracy/error 
