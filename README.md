@@ -1,5 +1,6 @@
 # ML-sessional
 CSE 442
+- https://medium.com/accel-ai/machine-learning-algorithms-cheat-sheet-990104aaaabc
 ```
 1. Linear Regression: 
 A way to predict based on known data. 
