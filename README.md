@@ -1,4 +1,7 @@
 # ML-sessional
+
+![image](https://user-images.githubusercontent.com/59027621/195826469-2bea02f9-5a95-4044-9c03-6f555e3968ed.png)
+
 CSE 442
 - https://medium.com/accel-ai/machine-learning-algorithms-cheat-sheet-990104aaaabc
 ```
