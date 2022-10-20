@@ -17,3 +17,11 @@ params_knn = {'n_neighbors' : np.arange(1,25)} --> 1 theke 25 er moddhe k er kon
 knn_gs = GridSearchCV(knn, params_knn, cv=5) --> cv = cross validation, best parameter return korbe knn_gs e
 knn_gs = grid search
 knn_best = knn_gs.best_estimator_
+
+first parameter = user defined
+second param =>
+knn_best 
+DT
+log_reg
+
+hard use korsi
