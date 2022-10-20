@@ -9,4 +9,5 @@ STEP 2 --> APPLY POLY REG - POLYFEATURES, FIT, PREDICT, SCORE
 STEP 3 --> LASSO REGRESSION - LAMBDA == ALPHA, SCORE, COEFF
 STEP 4 --> RIDGE REGRESSION - LAMBDA == ALPHA, SCORE, COEFF
 
-
+ensemble --> multiple model thakbe
+dataset --> split (train,test) --> decision tree, logistic regression, KNN ( 3 ta model nicchi ) --> fit, predict --> max voting, ensemble --> score 
