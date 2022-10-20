@@ -11,3 +11,9 @@ STEP 4 --> RIDGE REGRESSION - LAMBDA == ALPHA, SCORE, COEFF
 
 ensemble --> multiple model thakbe
 dataset --> split (train,test) --> decision tree, logistic regression, KNN ( 3 ta model nicchi ) --> fit, predict --> max voting, ensemble --> score 
+
+
+params_knn = {'n_neighbors' : np.arange(1,25)} --> 1 theke 25 er moddhe k er kon value bhalo hobe 
+knn_gs = GridSearchCV(knn, params_knn, cv=5) --> cv = cross validation, best parameter return korbe knn_gs e
+knn_gs = grid search
+knn_best = knn_gs.best_estimator_
